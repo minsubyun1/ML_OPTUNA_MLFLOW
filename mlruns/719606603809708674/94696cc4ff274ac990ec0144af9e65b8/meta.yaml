@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/719606603809708674/94696cc4ff274ac990ec0144af9e65b8/artifacts
+end_time: 1698825296603
+entry_point_name: ''
+experiment_id: '719606603809708674'
+lifecycle_stage: active
+run_id: 94696cc4ff274ac990ec0144af9e65b8
+run_name: '7'
+run_uuid: 94696cc4ff274ac990ec0144af9e65b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698825287602
+status: 3
+tags: []
+user_id: MSYUN

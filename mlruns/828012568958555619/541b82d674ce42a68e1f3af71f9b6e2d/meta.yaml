@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/828012568958555619/541b82d674ce42a68e1f3af71f9b6e2d/artifacts
+end_time: 1698483721789
+entry_point_name: ''
+experiment_id: '828012568958555619'
+lifecycle_stage: active
+run_id: 541b82d674ce42a68e1f3af71f9b6e2d
+run_name: thoughtful-sloth-345
+run_uuid: 541b82d674ce42a68e1f3af71f9b6e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698483721515
+status: 4
+tags: []
+user_id: MSYUN

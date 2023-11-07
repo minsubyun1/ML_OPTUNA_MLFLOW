@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/828012568958555619/0d2fa1a52dad401891bb3eefed6f7de6/artifacts
+end_time: 1698585806023
+entry_point_name: ''
+experiment_id: '828012568958555619'
+lifecycle_stage: active
+run_id: 0d2fa1a52dad401891bb3eefed6f7de6
+run_name: worried-snake-700
+run_uuid: 0d2fa1a52dad401891bb3eefed6f7de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698585799880
+status: 3
+tags: []
+user_id: MSYUN

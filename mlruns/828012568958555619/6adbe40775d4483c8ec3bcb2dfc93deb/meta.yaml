@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/828012568958555619/6adbe40775d4483c8ec3bcb2dfc93deb/artifacts
+end_time: 1698585890050
+entry_point_name: ''
+experiment_id: '828012568958555619'
+lifecycle_stage: active
+run_id: 6adbe40775d4483c8ec3bcb2dfc93deb
+run_name: mercurial-mink-416
+run_uuid: 6adbe40775d4483c8ec3bcb2dfc93deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698585880224
+status: 3
+tags: []
+user_id: MSYUN

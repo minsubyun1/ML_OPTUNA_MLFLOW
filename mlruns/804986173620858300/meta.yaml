@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/804986173620858300
+creation_time: 1698309972387
+experiment_id: '804986173620858300'
+last_update_time: 1698309972387
+lifecycle_stage: active
+name: sklearn_logistic_experiment

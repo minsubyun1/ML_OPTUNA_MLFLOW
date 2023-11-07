@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/804986173620858300/4a96d53c306b42558cd0c0c0384beb9d/artifacts
+end_time: 1698310324438
+entry_point_name: ''
+experiment_id: '804986173620858300'
+lifecycle_stage: active
+run_id: 4a96d53c306b42558cd0c0c0384beb9d
+run_name: flawless-smelt-473
+run_uuid: 4a96d53c306b42558cd0c0c0384beb9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698310324188
+status: 4
+tags: []
+user_id: MSYUN

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MSYUN/Desktop/ml_optuna_mlflow/mlruns/804986173620858300/9a4309d4ae334b2fa761f475ff8b8a54/artifacts
+end_time: 1698310395577
+entry_point_name: ''
+experiment_id: '804986173620858300'
+lifecycle_stage: active
+run_id: 9a4309d4ae334b2fa761f475ff8b8a54
+run_name: beautiful-shrike-873
+run_uuid: 9a4309d4ae334b2fa761f475ff8b8a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698310395314
+status: 4
+tags: []
+user_id: MSYUN
